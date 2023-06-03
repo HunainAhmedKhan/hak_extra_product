@@ -18,6 +18,7 @@
     'category': 'Uncategorized',
     'version': '16.0.1',
     "license": "AGPL-3",
+     'images': ['static/description/banner.png'],
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'sale', 'product'],
