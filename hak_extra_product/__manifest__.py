@@ -9,7 +9,7 @@
          Add Extra Product in sales order
     """,
 
-    'author': "HAK Tehnologies",
+    'author': "HAK Technologies",
     'website': "https://www.HAKTehnologies.com",
 
     # Categories can be used to filter modules in modules listing
