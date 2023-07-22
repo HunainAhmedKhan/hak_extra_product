@@ -9,7 +9,7 @@
          Add Extra Product in sales order
     """,
 
-    'author': "HAK Tehnologies",
+    'author': "HAK Technologies",
     'website': "https://www.HAKTehnologies.com",
      'images': ['static/description/banner.png'],
 
